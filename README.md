@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **Road Rug has moved to [augustas-rug/road-rug](https://github.com/augustas-rug/road-rug).** This repository is archived and no longer updated.
+> Get the latest version, now for macOS and Windows, from the [new releases page](https://github.com/augustas-rug/road-rug/releases/latest).
+
 <p align="center">
   <img src="docs/icon.png" width="128" alt="Road Rug icon">
 </p>
